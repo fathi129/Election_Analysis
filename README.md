@@ -60,11 +60,13 @@ The final results are formated using the f string method, printed in a command p
 <img src = "https://github.com/fathi129/Election_Analysis/blob/master/Screenshots/%20savetofile.png">   
   
 ## Election-Audit Summary 
-- The automation script developed is very efficient, and it gives quick results. It can be reused for several similar projects.It can be used to calculate results for elections like senatorial districts,Local elections, and federal elections as it is designed to pull the candidates from the dataset.
+- The automation script developed is very efficient, and it gives quick results. It can be reused for several similar projects.It can be used to calculate   results for elections like Senatorial districts,Local elections, and Federal elections as it is designed to pull the candidates from the dataset.
+- Here in this script we have imported csv file we can import any type of file and add their dependencies in the code like json.
 - In addition to that, we can change the county to state for calculating the Federal election.
 - Expanding the election audit by including the county voter turnout is an example of how the script can be reused.
 - We can even calculate how many votes each candidate received in each county by adding conditions to the script.
-- The code is flexible, we can modify the code based on our needs. We need just to give the dataset and run the script for the result.
+- This script can be used for larger datasets too.
+- The code is flexible, we can modify the code based on our needs. We need to just give the dataset,their corresponding location and run the script for the   results.
 
 
 
